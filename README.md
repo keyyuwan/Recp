@@ -6,6 +6,10 @@ Recp is a project where you can explore dishes from various countries and learn 
 
 # 🎥 Overview:
 
+![Landing Page and Authentication](./.github/docs/assets/auth-landing.gif)
+![Recipes](./.github/docs/assets/recipes.gif)
+![Create Recipe](./.github/docs/assets/create-recipe.gif)
+
 # 🖥️ The project:
 
 Recp is a dish explorer with various recipes from various contries. You can also register your own recipe from your own country.
